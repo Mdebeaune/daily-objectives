@@ -6,7 +6,7 @@
 * [ ] Découverte de Linux :
   * [X] Savoir ce qu'est Linux
   * [X] Savoir ce qu'est une distribution Linux
-  * [ ] Comprendre l'arborescence de Linux
+  * [X] Comprendre l'arborescence de Linux
 * [ ] Découverte du Terminal : 
   * [ ] Comprendre la différence entre une interface en ligne de commande et une interface graphique
   * [ ] Savoir ce qu'est un Shell, quelle différence entre BASH et ZSH 
